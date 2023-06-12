@@ -4,6 +4,8 @@ I own both a first-gen Storm2 directly from the first Kickstarter campaign and a
 This repo contains my **WIP** reverse engineering efforts concerning the first-gen.  
 I don't know the extent to how they differ yet, except that the second-gen uses a smaller "Master Controller" package (48 instead of 64 pins).
 
+I will probably keep updating [this thread](https://chaos.social/@LeoDJ/110164612794922315), if you want to keep up-to-date.
+
 ### Motivation
 I have a few small gripes with the stock firmware I'd like to improve, if possible:
 1. The button long press time is way too long, which makes the 1-button interface even more tedious to use
